@@ -5,3 +5,5 @@ This is a demo project showing how to use [Storyblok Image service](https://www.
 - React v17.0.2
 - [@storyblok/react](https://github.com/storyblok/storyblok-react)
 - Axios 
+
+[Link to project](https://codesandbox.io/s/ecstatic-meitner-mkpi6r)
